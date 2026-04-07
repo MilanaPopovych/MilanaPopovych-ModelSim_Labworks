@@ -1,0 +1,7 @@
+misc/
+tutorials/
+verilog/
+work/
+transcript
+vsim.wlf
+*.log
